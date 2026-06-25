@@ -1,1 +1,1 @@
-# senha-1
+# Gerador-de-senha-2026
